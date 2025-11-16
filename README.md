@@ -1,6 +1,8 @@
  
 # Flask App with MySQL Docker Setup
 
+Visit blog : https://preranask.hashnode.dev/project-flask-app-with-mysql-docker-setup
+
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
 
 ## Prerequisites
